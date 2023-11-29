@@ -10,7 +10,6 @@ import clientRoutes from "./routes/client";
 import generalRoutes from "./routes/general";
 import managementRoutes from "./routes/management";
 import salesRoutes from "./routes/sales";
-import { error } from "console";
 
 /* Configuration */
 dotenv.config();
